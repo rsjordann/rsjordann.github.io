@@ -1,17 +1,17 @@
 # Site settings
 # These are used to personalize your new site.
-title: Mary Lou Algorithm # your name here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Raelyn S. Jordan # your name here
+logo: "/images/IMG_8617.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
-  In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science (class of 2040)
+  In partial fulfillment of the requirements for the degree of 
+  Bachelor of Technology (BTD) – Cybersecurity  (class of 2025)
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
+  <a href="https://assets/css/RaelynJordan_Resume.pdfe">View My Resume</a>
   <br /><br />
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
-repository: "csci-csu/csci-portfolio"
-github_username:  username # update with your username
+repository: "rsjordann/rsjordann.github.io"
+github_username:  rsjordann # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
