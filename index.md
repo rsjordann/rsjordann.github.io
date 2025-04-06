@@ -31,20 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Morris Worm: Its Impact on Cybersecurity, Legal Frameworks, and Ethical Considerations](/pdf/morris-worm-ethics-paper.pdf)
 
--   **Class:**  
--   **Grade:**
-
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI.40547 – Principles of Cybersecurity  
+-   **Grade:** 100
 
 ---
 
