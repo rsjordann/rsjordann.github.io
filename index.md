@@ -33,7 +33,7 @@ Ethics Papers
 
 ### [The Morris Worm: Its Impact on Cybersecurity, Legal Frameworks, and Ethical Considerations](rsjordann.github.io/pdf/morris_worm_ethics_paper.pdf)
 
--   **Class:** CSCI.40547 – Principles of Cybersecurity  
+-   **Class:** CSCI.405 – Principles of Cybersecurity  
 -   **Grade:** 100
 
 ---
