@@ -12,8 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/project1thumbnai.png)
 
 ---
-### [Battleship Game | CSCI 235](project2)
-
+### [Battleship Game | CSCI 235](/rsjordann.github.io/project2.md)
 ![Project 2 Thumbnail Name](images/startGame.png)
 
 ---
