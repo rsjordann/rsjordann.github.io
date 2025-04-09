@@ -5,7 +5,7 @@ Battleship Game
 
 -   **Class:** CSCI 235 Procedural Programming
 -   **Language(s):** C++
--   **Source Code Repository:** [Battleship Game](https://rsjordann.github.io/project2codes/)  
+-   **Source Code Repository:** [Battleship Game](https://rsjordann.github.io/project2codes/Battleship.cpp)  
     (Please [email me](mailto:rsdixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -42,21 +42,24 @@ To compile and run the Battleship game, follow these steps:
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The game is a text-based, command-line application. Users will:
+- Start the game by running the compiled program.
+- Input coordinates to make moves and try to sink the opponent’s ships.
+- View updated boards after each turn, displaying hits or misses.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/startGame.png)  
+Fig 1. Start of game once compiled
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/missedShot.png)  
+Fig 2. Feedback of missed shot
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/hitEnemy.png)  
+Fig 3. Feedback when enemy is hit
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
+The game assumes that players will always input valid coordinates. In the future, I could improve the user experience by:
+   - Adding input validation to ensure that players can't accidentally input invalid coordinates (i.e. out-of-bounds or non-numeric input).
+   - Providing error messages to guide the player when mistakes occur.
+     
 [Back to Portfolio](./)
