@@ -1,14 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Battleship Game
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 235 Procedural Programming
+-   **Language(s):** C++
 -   **Source Code Repository:** [Battleship Game](https://guides.github.com/rsjordann.github.io
 /project2codes/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:rsdixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -43,7 +42,5 @@ Fig 3. Feedback when an error occurs.
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
