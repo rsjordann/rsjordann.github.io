@@ -14,9 +14,7 @@ Python Job Scraper
 
 This project is a Python-based job scraper that pulls recent Python job listings from the official Python.org job board. It filters job titles based on predefined keywords and outputs details like company name, location, and posting date. This tool is useful for anyone looking for job opportunities related to Python development.
 
-## How to compile and run the program
-
-How to run the project.
+## How to run the program
 
 To run the project, simply execute the Python script in your terminal.
 locate the folder the code is in 
