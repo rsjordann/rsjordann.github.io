@@ -41,18 +41,17 @@ This system operates as a command-line application and does not need any interac
 
 
 ![screenshot](images/project1results.png)  
-Fig 1. The launch screen
+Fig 1. Example output after the script is processed.
 
 ![screenshot](images/jobPostings.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Results for engineers on job board
 
 ![screenshot](images/jobPostings2.png)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Additional results for engineers on job board
 
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
