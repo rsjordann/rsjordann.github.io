@@ -39,10 +39,7 @@ Presentations
 
 
 
-[Interview Questions Responses](/pdf/Interview_Questions_Responses.pdf)
-
-- **Class:** 
-- **Grade:**
+Interview Questions Responses(/pdf/Interview_Questions_Responses.pdf)
 
 ---
 
