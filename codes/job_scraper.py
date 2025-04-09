@@ -1,3 +1,13 @@
+''' 
+Student Name:  Raelyn Jordan
+Program Name:  Job Scraper
+Creation Date:  12/9/2024
+Last Modified Date:  12/10/2024
+CSCI Course:  CSCI 301 Survey of Scripting Languages
+Grade Received:  100
+Design Comments: This project can be easily extended by allowing the user to choose the keyword for job filtering.
+'''
+
 #!/usr/bin/env python3
 
 import requests
