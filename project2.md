@@ -11,18 +11,35 @@ Battleship Game
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Battleship game is an implementation of a board game in which players try to sink their opponents ships, all conducted through command line input. This was a C++ project I completed for my CSCI 235 Procedural Programming course. It emulates the process in which players alternate turns in an attempt to 'sink' their opponents ships before they are sunk themselves.  
+
+Key Features:
+
+- Supports 2 players
+
+- Users receive feedback for each move made alongside board representation.  
+
+- Ships are placed on the board automatically.  
+
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+To compile and run the Battleship game, follow these steps:
 
-```bash
-cd ./project
-python setup.py
-```
+1. Navigate to the project directory:
+    ```terminal
+    cd ./BattleshipGame
+    ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+2. Compile the C++ code:
+    ```terminal
+    g++ -o battleship main.cpp
+    ```
+
+3. Run the compiled program:
+    ```terminal
+    ./battleship
+    ```
 
 ## UI Design
 
