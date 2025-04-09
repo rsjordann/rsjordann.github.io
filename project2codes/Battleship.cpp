@@ -1,4 +1,13 @@
-// Include standard headers
+/// Student Name:  Raelyn Jordan
+// Program Name:  Battleship
+// Creation Date:  12/9/2024
+// Last Modified Date:  12/10/2024
+// CSCI Course:  CSCI 235 Procedural Programming
+// Design Commentsme assumes that players will always input valid coordinates. In the future, I could improve the user experience by:
+// Adding input validation to ensure that players can’t accidentally input invalid coordinates (i.e. out-of-bounds or non-numeric input).
+// Providing error messages to guide the player when mistakes 
+
+    // Include standard headers
 #include <iostream>
 #include <iomanip>
 #include <thread>
