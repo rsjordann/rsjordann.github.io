@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/project1thumbnai.png)
 
 ---
-### [Battleship Game | CSCI 235](project1)
+### [Battleship Game | CSCI 235](project2)
 
 ![Project 2 Thumbnail Name](images/startGame.png)
 
