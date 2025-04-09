@@ -17,6 +17,7 @@ This project is a Python-based job scraper that pulls recent Python job listings
 ## How to run the program
 
 To run the project, simply execute the Python script in your terminal.
+
 Locate the folder the file is in:
 ``` 
 cd ./projectFolder
