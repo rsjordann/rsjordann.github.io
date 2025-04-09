@@ -20,10 +20,14 @@ How to run the project.
 
 To run the project, simply execute the Python script in your terminal.
 locate the folder the code is in 
-``` cd ./projectFolder ```
+``` 
+cd ./projectFolder
+```
 
 and then run the script:
-``` python3 jobScraper.py ```
+``` 
+python3 jobScraper.py
+```
 
 ## UI Design
 
