@@ -51,7 +51,7 @@ Fig 3. Additional results for engineers on job board
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+One thing to keep in mind when running this program is that it's written to retrieve job postings from the Python job board, and the structure and layout of the webpage could possibly change over time. When the site is updated or the page structure changes, it could possibly break the program. Additionally, this project can be easily extended by allowing the user to choose the keyword for job filtering. This was not a part of my assignment, but it would make it more flexible and easier to customize. Other potential extensions might be to store the job postings in a file, send alerts for specific types of jobs, or even create a job to scrape the site periodically.
 
 
 [Back to Portfolio](./)
