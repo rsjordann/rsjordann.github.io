@@ -6,7 +6,7 @@ Python Job Scraper
 -   **Class:** CSCI 301 Survey of Scripting Languages
 -   **Grade:** 100
 -   **Language(s):** Python
--   **Source Code Repository:** [job scraper.py](https://github.com/rsjordann/job_scraper.py)
+-   **Source Code Repository:** [job scraper.py](https://github.com/rsjordann/job_scraper)
     (Please [email me](mailto:rsdixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
