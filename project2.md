@@ -5,7 +5,7 @@ Battleship Game
 
 -   **Class:** CSCI 235 Procedural Programming
 -   **Language(s):** C++
--   **Source Code Repository:** [Battleship.cpp](https://github.com/rsjordann/project2codes/raw/main/Battleship.cpp)  
+-   **Source Code Repository:** [Battleship.cpp](https://rsjordann.github.ip/project2codes/Battleship.cpp)  
 
     (Please [email me](mailto:rsdixon@csustudent.net?subject=GitHub%20Access) to request access.)
 
